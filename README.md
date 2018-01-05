@@ -2,12 +2,12 @@
 顾名思义,用来查询音乐的玩意.  
 支持网易云音乐,酷狗音乐,虾米音乐.  
 
-`别再有人跑来说要支持正版音乐什么的了. 年费会员在这个程序完成之前就已经购买了. 
-我只是写来方便下载下架音乐的, 好么?`  
+## 原作
 
-![image](https://music.liuli.lol/static/img/20170102.jpg)
-###### 效果演示
+[go-music](https://github.com/loadfield/go-music)  
+
+## 效果演示
 * https://music.liuli.lol/
 
-###### 如何使用
+## 如何使用
 复制build目录下相应平台的文件到上级目录运行即可.
